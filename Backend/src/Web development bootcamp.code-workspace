@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Web development bootcamp"
+		},
+		{
+			"path": "../../../MerakiClinic.io-main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "EmpProjectSimple"
+	}
+}
